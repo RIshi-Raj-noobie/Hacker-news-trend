@@ -1,6 +1,6 @@
 # Hacker News Top Stories Analyzer
 
-A Python script that performs data analysis and sentiment analysis on the current top stories from Hacker News (news.ycombinator.com). This project demonstrates skills in working with APIs, data processing, and visualization.
+A Python script that performs data analysis and sentiment analysis on the current top stories from Hacker News (news.ycombinator.com). This project demonstrates skills in working with APIs, data processing, and visualization.*THIS IS JUST A SAMPLE MODEL WITH NO CURRENT WORKING APPLICATION USEFUL ONLY AS A REFERENCE FOR KNOWN THINGS AND CONTAINS ONLY CODE ; FILES MUST BE CREATED ON OWN FOR THE USE OF CODE *
 
 ## 🚀 Features
 
