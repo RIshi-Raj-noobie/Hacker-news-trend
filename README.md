@@ -31,7 +31,7 @@ The script generates and saves the following visualizations:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/hacker-news-analysis.git
+    git clone ](https://github.com/RIshi-Raj-noobie/Hacker-news-trend/tree/main)
     cd hacker-news-analysis
     ```
 
